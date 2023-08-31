@@ -15,5 +15,5 @@ Clone the repository and run cartoonify_an_image.py.
 
 References:
 
-Data Flair Trainings Blog
+Data Flair Trainings Blog:
 https://data-flair.training/blogs/cartoonify-image-opencv-python/
