@@ -11,4 +11,4 @@ Requirements:
 - Numpy
 - matplotlib
 
-Clone the repository and run cartoonify an image.py.
+Clone the repository and run cartoonify_an_image.py.
