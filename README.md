@@ -3,7 +3,7 @@ This project aims to take images uploaded by the user from their device and allo
 
 <img width="625" alt="image" src="https://github.com/sziaa/cartoonify_images/assets/143029165/22a13e61-2f60-499f-bd69-a1cbf3a17080">
 
-Requirements:
+# Requirements:
 - Python 3.5 or above
 - Easygui
 - OpenCV
